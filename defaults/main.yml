@@ -1,6 +1,6 @@
 ---
 
-mongodb_version: 3.4.21
+mongodb_version: 3.4.15
 mongodb_port: 27017
 mongodb_bind_ip: 0.0.0.0
 mongodb_dbpath: /var/lib/mongodb
